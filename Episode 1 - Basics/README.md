@@ -1,5 +1,5 @@
 # IMPORTANT! READ ME!
-Hello there. If you encountered errors when you watched my [Episode 1 - Basics Video](https://www.youtube.com/watch?v=8pbcFKzDgKY&t=676s), **then please _carefully_read the following information below._**
+Hello there. If you encountered errors when you watched my [Episode 1 - Basics Video](https://www.youtube.com/watch?v=8pbcFKzDgKY&t=676s), **then please _carefully_read the following information below.**
 
 <ins> **Some Common Errors:** </ins>
 - `throw new TypeError ('CLIENT_MISSING_INTENTS');`
