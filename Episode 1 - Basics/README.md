@@ -7,3 +7,4 @@ Hello there. If you're encountered errors when you watched my [Episode 1 - Basic
 - Any other node module error(s).
 
 ## </ins> **Solution:** </ins>
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
