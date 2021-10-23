@@ -3,14 +3,14 @@ Hello there. If you're encountered errors when you watched my [Episode 1 - Basic
 
 <ins> **Some Common Errors:** </ins>
 - `throw new TypeError ('CLIENT_MISSING_INTENTS');`
-- `SyntaxError: Unexpected token '??=`
+- `SyntaxError: Unexpected token '??='`
 - Any other node module error(s).
 
 ## </ins> **Solution:** </ins>
-- So the problem is that Discord.js upgraded to v13 and the original video and code were made to work using Discord.js v12, so what you want to do is <u> **downgrade your Discord.js to v12.** <u>
+- So the problem is that Discord.js upgraded to v13 and the original video and code were made to work using Discord.js v12, so what you want to do is _**downgrade your Discord.js to v12.**_
   - To do so, simply type: `npm i discord.js@12.5.3` in the command prompt and then run your bot again by either typing `node .` or `node index.js` (or whatever you named your file). Hope this helps! 🙂
 
-#### Questions?
+#### Got Questions?
 Feel free to leave a comment on my YouTube video about your question/concern!
 
 
