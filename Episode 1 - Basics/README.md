@@ -3,8 +3,5 @@ Hello there. If you're encountering errors when you watched my [Episode 1 - Basi
 
 <ins> **Common Errors:** </ins>
 - `throw new TypeError ('CLIENT_MISSING_INTENTS');`
-- `agent ??= new https.Agent({ ...this.client.options.http.agent, keepAlive: true });
-          ^^^
-
-SyntaxError: Unexpected token '??=`
+- `SyntaxError: Unexpected token '??=`
 
