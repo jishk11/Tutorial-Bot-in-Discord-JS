@@ -1,4 +1,4 @@
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+// IMPORTANT! Please look at the README.md file in this folder to fix the "unexpected token/missing intents" problem!
 
 const Discord = require('discord.js');
 const Client = new Discord.Client();
