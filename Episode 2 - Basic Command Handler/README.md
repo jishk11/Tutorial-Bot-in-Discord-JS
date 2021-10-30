@@ -8,7 +8,7 @@ Please watch the video before looking at the code to understand how to program t
         - So to fix the problem, check out the solution [here](https://github.com/jishk11/Tutorial-Bot-in-DiscordJS/tree/main/Episode%201%20-%20Basics).
           - In the future, I will update the series with new Discord js v13 videos.
 
-<ins> ###  Playlist of the Code Your Own Discord Bot Series </ins>
+ ###  <ins> Playlist of the Code Your Own Discord Bot Series </ins>
 [Click here!](https://www.youtube.com/watch?v=8pbcFKzDgKY&list=PLApYoRlzhXgwc1nno3QzpUfUuS5xaid_K)
 
 ### Got Questions?
