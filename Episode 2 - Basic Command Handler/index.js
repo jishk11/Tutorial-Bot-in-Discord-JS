@@ -14,7 +14,8 @@ Client.on('message', message =>{
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
 
-    if (command === 'ping'){ //feel free to change the command names and response to your liking!
+    //feel free to change the command names and response to your liking!
+    if (command === 'ping'){ 
         message.channel.send(`Pong! Latency is **${Date.now() - message.createdTimestamp}ms.**`);
     } else if (command == 'youtube'){
         message.channel.send('**Check out Jishan\'s YouTube channel: https://youtube.com/jishankharbanda1**');
