@@ -5,8 +5,7 @@ Please watch the video before looking at the code to understand how to program t
 <ins>**Note:** </ins>
   - This video was made using the advanced command handler which was made in [Episode 3](https://www.youtube.com/watch?v=3AwHvRzX4QY&t=3s).
   - Additionally, this video (and all the other videos in this series) were made using Discord js v12 and they _won't_ work with Discord js v13. 
-     - By default when you install Discord js for the first time, it comes with v13. So if you're encountering any errors such as `throw new TypeError ('CLIENT_MISSING_INTENTS');` or `SyntaxError: Unexpected token '??='`, this is because you are using Discord js v13 which won't work with this code.
-        - So to fix the problem, check out the solution [here](https://github.com/jishk11/Tutorial-Bot-in-DiscordJS/tree/main/Episode%201%20-%20Basics).
+     - By default when you install Discord js for the first time, it comes with v13. If you're following with this video and you are getting errors such as `throw new TypeError ('CLIENT_MISSING_INTENTS');` or `SyntaxError: Unexpected token '??='`, check out the solution [here](https://github.com/jishk11/Tutorial-Bot-in-DiscordJS/tree/main/Episode%201%20-%20Basics).
           - In the future, I will update the series with new Discord js v13 videos.
 
  ###  <ins> Playlist of all the episodes in the Code Your Own Discord Bot Series </ins>
