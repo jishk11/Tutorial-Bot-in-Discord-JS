@@ -16,4 +16,4 @@ Please watch the video before looking at the code to understand how to program t
 [Click here!](https://www.youtube.com/watch?v=8pbcFKzDgKY&list=PLApYoRlzhXgwc1nno3QzpUfUuS5xaid_K)
 
 #### Got Questions?
-Feel free to leave a comment on anyone of my YouTube video about your question/concern!
+Feel free to leave a comment on any one of my YouTube video about your question/concern!
