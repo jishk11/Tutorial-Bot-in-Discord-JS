@@ -8,7 +8,7 @@ Please watch the video before looking at the code to understand how to program t
      - **So if you're following along with this video and you are getting errors such as** `throw new TypeError ('CLIENT_MISSING_INTENTS');` or `SyntaxError: Unexpected token '??='`, **check out the solution to that** [here](https://github.com/jishk11/Tutorial-Bot-in-DiscordJS/tree/main/Episode%201%20-%20Basics).
           - In the future, I will update the series with new Discord js v13 videos.
   - Place the `guildMemberAdd.js` file in your "guild" folder which should be inside of your "events" folder.
-     - Please refer to the image below to clearly understand where to place this file.
+     - Please refer to the image below if you're confused where to place this file.
 ![directory](https://user-images.githubusercontent.com/66566840/141608877-97491a49-c15a-4d39-af83-4bbc01e2c9ee.PNG)
 
  ###  <ins> Playlist of all the episodes in the Code Your Own Discord Bot Series </ins>
