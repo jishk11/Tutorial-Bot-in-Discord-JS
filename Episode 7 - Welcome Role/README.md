@@ -1,4 +1,4 @@
-This folder contains the source code for the [Episode 7 - Welcome Role](https://www.youtube.com/watch?v=NaNdui6PwM8).
+This folder contains the source code for the [Episode 7 - Welcome Role](https://www.youtube.com/watch?v=BBcuHdK8N2Q).
 
 Please watch the video before looking at the code to understand how to program the handler and clarify/answer any potential question(s).
 
