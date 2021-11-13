@@ -2,7 +2,7 @@ This folder contains the source code for the [Episode 7 - Welcome Role](https://
 
 Please watch the video before looking at the code to understand how to program the handler and clarify/answer any potential question(s).
 
-# <ins>**Note:** </ins>
+### <ins>**Note:** </ins> ###
   - This video was made using the advanced command handler which was made in [Episode 3](https://www.youtube.com/watch?v=3AwHvRzX4QY&t=3s).
   - Place the `guildMemberAdd.js` file in your "guild" folder which should be inside of your "events" folder.
     - Please refer to the image below if you're confused where to place this file.
