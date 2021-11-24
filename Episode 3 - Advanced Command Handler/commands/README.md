@@ -1,0 +1,1 @@
+You should place all your command files like the ping.js in this folder. Whenever you create a new file for a new "command" such as the kick or ban command, you will place those `.js` files in this folder. 
