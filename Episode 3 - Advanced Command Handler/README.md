@@ -4,6 +4,7 @@ Please watch the video before looking at the code to understand how to program t
 
 ## <ins>**Note:** </ins> ##
   - Place the files in the specfic order/folder as they appear in the video and this repository.
+      - You should already have the `node_modules` folder, the `package.json`and the `package-lock.json` files from the first episode.
   - This video (and all the other videos in this series) were made using Discord js v12 and they _won't_ work with Discord js v13. 
      - **So if you're following along with this video and you are getting errors such as** `throw new TypeError ('CLIENT_MISSING_INTENTS');` or `SyntaxError: Unexpected token '??='`, **check out the solution to that** [here](https://github.com/jishk11/Tutorial-Bot-in-DiscordJS/tree/main/Episode%201%20-%20Basics).
           - In the future, I will update the series with new Discord js v13 videos.
