@@ -1,6 +1,6 @@
 This folder contains the source code for the [Episode 6 - Timed Mute Video](https://www.youtube.com/watch?v=NaNdui6PwM8).
 
-Please watch the video before looking at the code to understand how to program the handler and clarify/answer any potential question(s).
+Please watch the video before looking at the code to understand how to program this command and clarify/answer any potential question(s).
 
 ## <ins>**Note:** </ins> ##
   - This video was made using the advanced command handler which was made in [Episode 3](https://www.youtube.com/watch?v=3AwHvRzX4QY&t=3s).
