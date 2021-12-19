@@ -34,6 +34,6 @@ module. exports = {
         .setImage('https://www.kindpng.com/picc/m/117-1174974_3-number-png-number-three-transparent-background-png.png')
         .setTimestamp()
         .setFooter('Bot made by Jishan', logo)
-message.channel.send(newEmbed);
+        message.channel.send(newEmbed);
     }
 }
