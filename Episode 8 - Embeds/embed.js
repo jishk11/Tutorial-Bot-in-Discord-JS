@@ -1,35 +1,39 @@
-//place this file in your commands folder
-const { MessageEmbed } = require('discord.js');
-module.exports = {
+module. exports = {
     name: 'embed',
-    description: "Commands!",
-    execute(client, message, args, Discord) {
-        const logo = 'https://yt3.ggpht.com/ytc/AAUvwni6s6sNc8zmbSjsMqryeFKTFbT4ERaxDHezRYNn=s88-c-k-c0x00ffffff-no-rj'
+    description: 'this is an embed command',
+    execute (client, message, args, Discord) {
+        const logo = 'https://yt3.ggpht.com/ytc/AKedOLT_jR5vVjNbfnoqLohHtzFX9B7alnS2cN0S6s63=s900-c-k-c0x00ffffff-no-rj'
         const newEmbed = new Discord.MessageEmbed()
-            .setColor(`00ffff`)
-            .setTitle('Rules')
-            .setAuthor('Jishan', logo)
-            .setThumbnail('https://yt3.ggpht.com/ytc/AAUvwni6s6sNc8zmbSjsMqryeFKTFbT4ERaxDHezRYNn=s88-c-k-c0x00ffffff-no-rj')
-            .setURL('https://www.youtube.com/channel/UCvtZXtG3mJErFkDpHg2mBQA')
-            .setDescription('These are the rules you must follow!')
-            .addFields(
-                {
-                    name: 'Rule 1: **Be Nice**',
-                    value: 'test',
-                    inline: true
-                },
-
-                { name: 'Rule 2:**Follow Jishans Youtube Channel**' ,
-                inline: true},
-                { name: 'Rule 3: Do not be weird' })
-            .addField('Rule 4:', 'Be Nice')
-            .addField('Rule 5:', 'lmfao')
-
-
-            .setImage('https://www.planetware.com/wpimages/2020/04/iceland-best-waterfalls-seljalandsfoss.jpg')
-            .setTimestamp()
-            .setFooter('Powered by Jishan', 'https://thumbs.dreamstime.com/b/hw-h-w-letter-logo-design-initial-linked-circle-uppercase-monogram-red-blue-191634941.jpg.png');
-
-        message.channel.send(newEmbed);
+        .setColor('049074')
+        .setTitle('Rules')
+        .setAuthor('Jishan', logo)
+        .setThumbnail('https://images.squarespace-cdn.com/content/v1/504779d6e4b0dcecada0fc99/1487873936517-5KGYL2H6N6RWPTC5LCW1/rules1.jpg?format=1500w')
+        .setURL('https://www.youtube.com/jishankharbanda1')
+        .setDescription('This is an embed about the server rules!')
+        .addFields(
+            {
+                name: 'Rule 1',
+                value: 'Be respectful to others.',
+                inline: true
+            },
+        )
+        .addFields(
+            {
+                name: 'Rule 2',
+                value: 'Respect the decisions of moderators/admins.',
+                inline: true
+            },
+        )
+        .addFields(
+            {
+                name: 'Rule 3',
+                value: '**Make sure to subscribe to Jishan\'s YouTube channel.**',
+                inline: true
+            },
+        )
+        .setImage('https://www.kindpng.com/picc/m/117-1174974_3-number-png-number-three-transparent-background-png.png')
+        .setTimestamp()
+        .setFooter('Bot made by Jishan', logo)
+message.channel.send(newEmbed);
     }
 }
